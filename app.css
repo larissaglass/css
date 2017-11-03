@@ -19,3 +19,7 @@ body{
     margin-left: 2%;
     display: inline-block;
 }
+
+th, td {
+   border: 1px solid black;
+}
